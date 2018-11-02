@@ -1,0 +1,17 @@
+{
+  "name": "nodeJSHTMLScraper",
+  "version": "1.0.0",
+  "description": "nodeJSHTMLScraper",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "json2csv": "^4.2.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
