@@ -4,6 +4,5 @@ A simple application that will read local .html files stored in a folder and out
 # Input
 HTML files located in the ./scrape folder.
 
-
 # Output
 A CSV file in the ./output folder.
